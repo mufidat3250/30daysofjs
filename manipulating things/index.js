@@ -77,3 +77,4 @@ paragraph[1].textContent = "i will like to know you better";
 paragraph[1].setAttribute("class", "resetParagraph");
 paragraph[1].setAttribute("id", "idpararaph2");
 console.log(paragraph);
+hhhhhhh;
