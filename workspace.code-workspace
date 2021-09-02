@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../projects/markup loops/loop1/step1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DAY01 Javascript"
+	}
+}
